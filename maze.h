@@ -27,9 +27,8 @@ public:
 
     int get_nRow() const {return nRow;}
     int get_nCol() const {return nCol;}
-
-
     void printMaze(Player* player);
+    Block* get_block(int row, int col) {return maze[row][col];}
 };
 
 #endif
