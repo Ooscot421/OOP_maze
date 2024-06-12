@@ -4,6 +4,7 @@
 #include "empty.h"
 #include "goal.h"
 #include <thread>
+#include <chorono>
 using namespace std;
 
 // Timing control

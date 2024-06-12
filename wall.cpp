@@ -15,4 +15,7 @@ Wall::Wall() : Block(){
 
 void Wall::player_touched() {
     //write by yourself
+    cout << "Invalid move! You hit a wall." << endl;
+
+    
 }
