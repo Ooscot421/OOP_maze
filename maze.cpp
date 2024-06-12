@@ -3,10 +3,11 @@
 #include "wall.h"
 #include "empty.h"
 #include "goal.h"
+#include <thread>
 using namespace std;
 
 // Timing control
-void delay(int milliseconds) { this_thread::sleep_for(std::chrono::milliseconds(milliseconds)); }
+void delay(int milliseconds) { std::this_thread::sleep_for(std::chrono::milliseconds(milliseconds)); }
 
 
 Maze::Maze(string input_filename)
