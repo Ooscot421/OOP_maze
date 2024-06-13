@@ -6,4 +6,8 @@
 # 6/11
 1.增加Obstacle物件，要通過的話，要用攻擊 Done<br/>
 2.Player的手勢變化 Done<br/>
-3.Invisble Block的功能 <br/>
+3.Invisble Block的功能 Done<br/>
+
+# 6/13
+1.增加Primary Attack Done<br/>
+2.Time used Done<br/>
