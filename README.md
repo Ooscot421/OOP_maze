@@ -11,3 +11,9 @@
 # 6/13
 1.增加Primary Attack Done<br/>
 2.Time used Done<br/>
+
+# 6/14
+1.建立Key class Done<br/>
+2.但還剩下讓他消失在地圖上的功能 <br/>
+3.Portal 完成<br/>
+4.Movable 還在努力<br/>
